@@ -1,0 +1,19 @@
+.x:before {
+    background: #488fda; /* light blue*/
+}
+
+.x:after {
+    background: #488fda; /*light blue*/
+}
+
+#game-title h1 {
+    color: red;
+}
+
+#body .line {
+    background: pink;
+}
+
+#end_screen #btn_restart {
+    color: lawngreen;
+}
